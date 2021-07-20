@@ -13,7 +13,7 @@
 - 📫 How to reach me **sriharsha.boddeti@gmail.com**
 
 
-- 💬 Ask me about **Data Structures and Algorithms |c++**
+- 💬 Ask me about **Data Structures and Algorithms | C++**
 </div>
 <h3 align="left">Connect with me:</h3>
 
