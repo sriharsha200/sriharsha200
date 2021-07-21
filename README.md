@@ -8,7 +8,7 @@
 
 - 👯 I’m currently contributing in **DevIncept**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sriharsha200](https://github.com/sriharsha200) 
+- 👨‍💻 All of my projects are available at [https://github.com/sriharsha200](https://github.com/sriharsha200?tab=repositories) 
 
 - 📫 How to reach me **sriharsha.boddeti@gmail.com**
 
