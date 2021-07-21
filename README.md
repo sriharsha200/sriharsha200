@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, i am Sri Harsha </h1>
 <h3 align="center">CODER | WEB DEVELOPER</h3>
 
-- 🔭 I’m currently working on [Hostel Management System](https://github.com/sriharsha200/HOSTEL-MANAGEMENT-SYSTEM)
+- 🔭 I’m currently working on [Hostel Management System](https://github.com/sriharsha200/HOSTEL-MANAGEMANT-SYSTEM)
 
 - 🌱 I’m currently learning **Competitive programming**
 
